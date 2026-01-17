@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <SPIFFS.h>
 
-const char *ssid = "HARAJIT";
-const char *password = "HARAJIT05";
+const char *ssid = "Cookie32";
+const char *password = "SkibidiCookie";
 
 const int externalLedPin = 15;
 const int builtInLedPin = 2;
