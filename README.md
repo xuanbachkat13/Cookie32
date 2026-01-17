@@ -59,4 +59,3 @@ This project is released under the **MIT License**. You are free to use, modify,
 ---
 *Cookie32 – A small robot with big emotions.*
 
-*Cookie32 – A small robot with big emotions.*
